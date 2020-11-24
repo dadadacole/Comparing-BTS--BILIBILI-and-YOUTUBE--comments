@@ -8,4 +8,4 @@ BTS의 한류 영향은 세계적으로 큰 인기를 얻고 있다. 하지만 �
 
  요약 : 유투브와 BILIBILI에서 BTS 댓글들의 온도차를 확인해 보고자 한다 
 
-<img src="https://user-images.githubusercontent.com/74246381/100052058-7cc5ad80-2e60-11eb-917d-0b43c0e5cc0d.jpeg" width="50"></img>
+<img src="https://user-images.githubusercontent.com/74246381/100052058-7cc5ad80-2e60-11eb-917d-0b43c0e5cc0d.jpeg" width="70%"></img>
