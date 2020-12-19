@@ -35,5 +35,8 @@
 
 # 5. 데이터 스키마
 
+![데이터스키마](https://user-images.githubusercontent.com/74246381/102688463-2b7bc480-423a-11eb-8b72-3f2254952058.PNG)
+
+
 
 <img src="https://user-images.githubusercontent.com/74246381/100052058-7cc5ad80-2e60-11eb-917d-0b43c0e5cc0d.jpeg" width="30%"></img>
