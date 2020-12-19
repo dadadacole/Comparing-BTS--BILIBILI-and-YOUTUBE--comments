@@ -29,9 +29,11 @@
 # 4. 대상 데이터
 * 유투브와 BILIBILI에서 BTS 영상 댓글들
 
+![데이터](https://user-images.githubusercontent.com/74246381/102688283-29fdcc80-4239-11eb-93a7-8268761019f1.png)
 
 
-# 5. 데이터 
+
+# 5. 데이터 스키마
 
 
 <img src="https://user-images.githubusercontent.com/74246381/100052058-7cc5ad80-2e60-11eb-917d-0b43c0e5cc0d.jpeg" width="30%"></img>
