@@ -27,7 +27,7 @@
 유투브와 BILIBILI에서 BTS 관련 댓글들을 무작위로 댓글이 많은 영상 위주로 차출하는데 BILIBILI에서는 6.25 발언 이후 영상들을 따로 차출한다. 
 
 # 4. 대상 데이터
-* 유투브와 BILIBILI에서 BTS 영상 댓글들
+* 유투브와 BILIBILI에서 BTS 영상 댓글들 ( 대략 YOUTUBE 10000건, BILIBILI 10000건, 항미원조 발언이후 5000건 )
 
 ![데이터](https://user-images.githubusercontent.com/74246381/102688283-29fdcc80-4239-11eb-93a7-8268761019f1.png)
 
