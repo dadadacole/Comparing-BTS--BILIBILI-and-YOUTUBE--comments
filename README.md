@@ -22,6 +22,6 @@ This is a normal paragraph:
 
     This is a code block.
     
-end code block.
+
 
 <img src="https://user-images.githubusercontent.com/74246381/100052058-7cc5ad80-2e60-11eb-917d-0b43c0e5cc0d.jpeg" width="30%"></img>
