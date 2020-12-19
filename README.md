@@ -18,4 +18,7 @@
 * ㅋㅋㅋ
 * ㅂ22
 
+모더냐 ㅋㅋㅋㅋ:
+  쇼바루
+
 <img src="https://user-images.githubusercontent.com/74246381/100052058-7cc5ad80-2e60-11eb-917d-0b43c0e5cc0d.jpeg" width="30%"></img>
