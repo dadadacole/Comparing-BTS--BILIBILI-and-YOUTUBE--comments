@@ -1,6 +1,6 @@
 
 ![](BTS.gif)
-
+![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s)
 # 방탄소년단의 6.25 발언 관련 YOUTUBE와 BILIBILI 댓글성향 분석
 
 * ### 학번:201804771
