@@ -1,7 +1,7 @@
 
 ![](BTS.gif)
 
-![Video Label]https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc2yJ7I%2FbtqwXeUM6jI%2Fa3WrMGPo9vakaDzQWepkOK%2Fimg.jpg&imgrefurl=https%3A%2F%2Frogorogo.tistory.com%2F125&tbnid=GyKMJZjMH1ERmM&vet=12ahUKEwjVtsDZnt_tAhWMAt4KHcjIDrUQMygCegUIARDCAQ..i&docid=2C35eplAqoYTkM&w=2362&h=1108&q=%EC%9C%A0%ED%88%AC%EB%B8%8C%20%EC%9D%B4%EB%AF%B8%EC%A7%80&ved=2ahUKEwjVtsDZnt_tAhWMAt4KHcjIDrUQMygCegUIARDCAQ)](https://youtu.be/fqnyLZOTflg)
+
 # 방탄소년단의 6.25 발언 관련 YOUTUBE와 BILIBILI 댓글성향 분석
 
 * ### 학번:201804771
@@ -55,3 +55,5 @@
 # 7. 앞으로의 방향성 
 
  * 방탄소년단은 중국 내에서 삼성전자 현대차, 휠라 등 일부 기업들의 광고모델이다. 하지만 발언 이후 이들 기업들이 온라인에서 방탄소년단을 삭제하기도 하였다. 이러한 상황에서 방탄소년단은 앞으로 노래와 춤으로 세계의 젊은이들에게 꿈과 열정 위안을 주는 한편 사회변화 캠페인과 자선활동으로 역사 관련 논쟁엔 과거의 ‘전쟁’과 ‘갈등’을 반대하고 세계 평화와 사랑의 메시지를 전달해야 할 것이다.
+ 
+![Video Label](https://user-images.githubusercontent.com/74246381/102785303-1d1bdd00-43e1-11eb-8afa-5f7be27a37a9.jpg)](https://youtu.be/fqnyLZOTflg) 
