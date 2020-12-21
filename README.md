@@ -1,7 +1,7 @@
 
 ![](BTS.gif)
 
-![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
+![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/fqnyLZOTflg)
 # 방탄소년단의 6.25 발언 관련 YOUTUBE와 BILIBILI 댓글성향 분석
 
 * ### 학번:201804771
